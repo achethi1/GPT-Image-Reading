@@ -1,2 +1,5 @@
-Description: This honors contract project extracts the partitions' starting and end address (in hex) from a GPT raw image. 
-It opens the file, and reads it to save the initital address. It goes through each partition, converts it appropriately,and adds 0's to the address if need be. 
+This honors contract project extracts the partitions' starting and end address (in hex) from a GPT raw image. 
+It opens the file, and reads it to save the initital address. 
+It goes through each partition, converts it appropriately,and adds 0's to the address if need be. 
+
+This project
